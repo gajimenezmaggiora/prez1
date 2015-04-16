@@ -23,4 +23,8 @@ knit        : slidify::knit2slides
 
 Hi Slidify!!!
 
+---
+## Slide 3
+This is slide 3.
+
 
